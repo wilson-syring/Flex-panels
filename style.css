@@ -1,7 +1,11 @@
+@font-face {
+    font-family: West;
+    src: url("WEST____.TTF");
+}
 html {
     box-sizing: border-box;
     background: #ffc600;
-    font-family: 'helvetica neue';
+    font-family: West;
     font-size: 20px;
     font-weight: 200;
 }
